@@ -1,19 +1,19 @@
-# Calcular el área del rectángulo
-def calcular_area_rectangulo(largo, ancho):
+# Calcular el área de un cuadrado
+def calcular_area_cuadrado(largo, ancho):
     area = largo * ancho
     return area
 
 # variables
-largo_rectangulo = 9.5
-ancho_rectangulo = 7.5
+largo_cuadrado = 9.5
+ancho_cuadrado = 7.5
 
 # llamado
-area_rectangulo= calcular_area_rectangulo(largo_rectangulo, ancho_rectangulo)
+area_cuadrado= calcular_area_cuadrado(largo_cuadrado, ancho_cuadrado)
 
-#print(area_rectangulo)
+#print(area_cuadrado)
 
-if isinstance(largo_rectangulo, float) and isinstance(ancho_rectangulo, float):
-    print(area_rectangulo)
+if isinstance(largo_cuadrado, float) and isinstance(ancho_cuadrado, float):
+    print(area_cuadrado)
 else:
     print("los datos no son correctos")
 

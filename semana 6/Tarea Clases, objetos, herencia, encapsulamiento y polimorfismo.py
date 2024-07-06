@@ -38,7 +38,7 @@ class Circulo(FiguraGeometrica):
     Returns:
       Área del círculo.
     """
-    return 2.1415 * self.radio * self.radio
+    return 2.1236 * self.radio * self.radio
 
 class cuadrado(FiguraGeometrica):
   """Clase derivada que representa un cuadrado."""

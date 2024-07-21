@@ -22,7 +22,9 @@ def mostrar_menu():
         '1': 'Unidad 1/1.2. Tecnicas de Programacion/1.2-1. Ejemplo Tecnicas de Programacion.py',
         '2': 'semana 3/2.py',
         '3': 'ABSTRACCION/POO.py',
-        '4': 'semana 5/ipos de datos, Identificadores.py'
+        '4': 'HERENCIA/POO.py',
+        '5': 'semana 5/ipos de datos, Identificadores.py',
+        '6': 'semana 7/Tarea Constructores y Destructores.py'
         # Agrega aquí el resto de las rutas de los scripts
     }
 

@@ -21,7 +21,8 @@ def mostrar_menu():
     opciones = {
         '1': 'Unidad 1/1.2. Tecnicas de Programacion/1.2-1. Ejemplo Tecnicas de Programacion.py',
         '2': 'semana 3/2.py',
-        '3': 'ABSTRACCION/POO.py'
+        '3': 'ABSTRACCION/POO.py',
+        '4': 'semana 5/ipos de datos, Identificadores.py'
         # Agrega aquí el resto de las rutas de los scripts
     }
 
